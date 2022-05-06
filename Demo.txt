@@ -3,4 +3,5 @@ Ansible
 python
 Docker 
 kuberenetes
-
+Nexus 
+Pipeline
