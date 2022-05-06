@@ -3,3 +3,5 @@ Ansible
 python
 Docker 
 kuberenetes
+.net
+C++
