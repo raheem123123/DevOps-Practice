@@ -5,5 +5,3 @@ Docker
 kuberenetes
 Nexus 
 Pipeline
-.net
-Java 
